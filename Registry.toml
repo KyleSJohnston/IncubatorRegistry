@@ -1,0 +1,6 @@
+name = "IncubatorRegistry"
+uuid = "9ffb1216-397f-4625-8233-7f2dc4eaff38"
+repo = "git@github.com:KyleSJohnston/IncubatorRegistry.git"
+description = "Packages under development"
+
+[packages]
