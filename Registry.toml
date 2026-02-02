@@ -4,4 +4,5 @@ repo = "git@github.com:KyleSJohnston/IncubatorRegistry.git"
 description = "Packages under development"
 
 [packages]
+7ccd7fa4-5880-4e7b-b140-9236e3e96f31 = { name = "DownloadDirectories", path = "D/DownloadDirectories" }
 853cdae6-d31d-485b-952e-6d292502e0c8 = { name = "OpenFIGI", path = "O/OpenFIGI" }
